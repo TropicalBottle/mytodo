@@ -1,6 +1,8 @@
 # To-Do application on Scalingo
 https://mytodoynov.osc-fr1.scalingo.io/
 
+![img.png](images/rapport/app.png)
+
 ## Les modifications de db-mongo.js
 J'ai ajouté le nom de ma base de donnée à DB NAME dans db-mongo.js
 `const DB_NAME = 'mytodoynov-1431';`
