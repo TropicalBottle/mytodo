@@ -32,3 +32,8 @@ J'ai activé le TLS depuis le dashboard mongo:
 ## Mongo Compass
 J'ai ensuite mis en place le mongo compass pour voir ma base de donnée:
 ![img.png](images/rapport/compass.png)
+
+# Azure
+J'ai crée une instance Mongo Cosmo en RU (Request Unit), et j'ai remplacé
+le lien de la variable d'environnement par ce dernier
+![img.png](images/rapport/azure.png)
