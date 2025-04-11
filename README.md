@@ -25,7 +25,7 @@ if (process.env.CLOUDANT_USERNAME !== undefined)  {
 
 ## Base de donnée
 J'ai activé le TLS depuis le dashboard mongo:
-![img.png](images/rapport/TLS.png)
+![img.png](images/rapport/tls.png)
 
 ## Mongo Compass
 J'ai ensuite mis en place le mongo compass pour voir ma base de donnée:
